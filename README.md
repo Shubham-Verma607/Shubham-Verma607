@@ -53,5 +53,5 @@ building practical projects that turn raw data into meaningful insights.
 
 ## 🤝 Connect With Me
 
-**LinkedIn:** Shubham Verma  
+**LinkedIn:** [Shubham Verma](https://www.linkedin.com/in/shubhamverma234/)  
 **GitHub:** Shubham-Verma607
