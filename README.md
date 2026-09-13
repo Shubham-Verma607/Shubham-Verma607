@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-banner.png" alt="Shubham Verma - Aspiring Data Analyst" width="100%">
+  <img src="profile.png" alt="Shubham Verma - Aspiring Data Analyst" width="100%">
 </p>
 
 
