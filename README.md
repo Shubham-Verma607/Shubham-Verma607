@@ -1,33 +1,35 @@
-# Hi, I'm Shubham Verma 👋
+<p align="center">
+  <img src="profile-banner.png" alt="Shubham Verma - Aspiring Data Analyst" width="100%">
+</p>
 
-### Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-I’m a B.Tech student passionate about data analysis, visualization, and
-building practical projects that turn raw data into meaningful insights.
+## 👋 About Me
 
----
+I’m a B.Tech student and aspiring Data Analyst focused on turning data into meaningful insights and business decisions.
 
-## 🛠️ Skills
+- 📊 Building interactive dashboards and data analysis projects
+- 🐍 Working with Python, Pandas, and NumPy
+- 🗄️ Using SQL and MySQL for data querying and analysis
+- 📈 Creating dashboards with Power BI, DAX, and Excel
+- 🚀 Continuously improving my skills through practical projects
 
-### Data Analysis
+## 🛠️ Technical Skills
+
+### 📊 Data Analysis
 `Python` `Pandas` `NumPy` `SQL`
 
-### Data Visualization
+### 📈 Business Intelligence & Visualization
 `Power BI` `DAX` `Excel` `Matplotlib`
 
-### Tools & Technologies
+### 🗄️ Database & Tools
 `MySQL` `Git` `GitHub` `Jupyter Notebook`
-
----
 
 ## 📊 Featured Projects
 
 | Project | Focus |
 |---|---|
-| 🛒 **Amazon Sales Dashboard** | Sales analysis & business insights using Power BI |
-| 📱 **Mobile Product Sales Dashboard** | Product sales, KPIs & trends using Power BI |
-| 💰 **Expense Tracker Pro** | Python-based expense tracking application |
-| 🌾 **GramSathi-AI** | AI-powered smart farming assistant |
+| 🛒 [Amazon Sales Dashboard](https://github.com/Shubham-Verma607/amazon-sales-dashboard) | Sales analysis & business insights using Power BI |
+| 📱 [Mobile Product Sales Dashboard](https://github.com/Shubham-Verma607/mobile-product-sales-dashboard) | Product sales, KPIs & trends using Power BI |
 
 ---
 
