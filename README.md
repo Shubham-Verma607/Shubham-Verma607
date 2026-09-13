@@ -9,42 +9,25 @@ building practical projects that turn raw data into meaningful insights.
 
 ## 🛠️ Skills
 
-**Languages & Analysis**
-- Python
-- SQL
-- Pandas
-- NumPy
+### Data Analysis
+`Python` `Pandas` `NumPy` `SQL`
 
-**Data Visualization**
-- Power BI
-- DAX
-- Matplotlib
-- Excel
+### Data Visualization
+`Power BI` `DAX` `Excel` `Matplotlib`
 
-**Tools & Technologies**
-- MySQL
-- Git & GitHub
-- Jupyter Notebook
+### Tools & Technologies
+`MySQL` `Git` `GitHub` `Jupyter Notebook`
 
 ---
 
 ## 📊 Featured Projects
 
-### 🛒 Amazon Sales Dashboard
-Interactive Power BI dashboard for analyzing sales performance,
-products, categories, and business insights.
-
-### 📱 Mobile Product Sales Dashboard
-Power BI dashboard focused on mobile product sales analysis,
-KPIs, trends, and business insights.
-
-### 💰 Expense Tracker Pro
-Python-based expense tracking application with data storage
-and practical financial management features.
-
-### 🌾 GramSathi-AI
-AI-powered smart farming assistant designed to provide farmers
-with intelligent, accessible, and data-driven agricultural support.
+| Project | Focus |
+|---|---|
+| 🛒 **Amazon Sales Dashboard** | Sales analysis & business insights using Power BI |
+| 📱 **Mobile Product Sales Dashboard** | Product sales, KPIs & trends using Power BI |
+| 💰 **Expense Tracker Pro** | Python-based expense tracking application |
+| 🌾 **GramSathi-AI** | AI-powered smart farming assistant |
 
 ---
 
@@ -58,7 +41,7 @@ with intelligent, accessible, and data-driven agricultural support.
 
 ---
 
-## 📈 What I’m Interested In
+## 💡 Areas of Interest
 
 - Data Analytics
 - Business Intelligence
@@ -70,5 +53,5 @@ with intelligent, accessible, and data-driven agricultural support.
 
 ## 🤝 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/shubhamverma234/)
-- [GitHub](https://github.com/Shubham-Verma607)
+**LinkedIn:** Shubham Verma  
+**GitHub:** Shubham-Verma607
