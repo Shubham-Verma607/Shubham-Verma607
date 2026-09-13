@@ -26,13 +26,24 @@ I’m a B.Tech student and aspiring Data Analyst focused on turning data into me
 
 ## 📊 Featured Projects
 
-| Project | Focus |
-|---|---|
-| 🛒 [Amazon Sales Dashboard](https://github.com/Shubham-Verma607/amazon-sales-dashboard) | Sales analysis & business insights using Power BI |
-| 📱 [Mobile Product Sales Dashboard](https://github.com/Shubham-Verma607/mobile-product-sales-dashboard) | Product sales, KPIs & trends using Power BI |
+### 🛒 [Amazon Sales Dashboard](https://github.com/Shubham-Verma607/amazon-sales-dashboard)
+Interactive Power BI dashboard for analyzing sales performance, profitability, products, customers, payment modes, and shipping trends.
+
+**Tools:** `Power BI` `DAX` `Power Query` `Data Visualization`
 
 ---
 
+### 📱 [Mobile Product Sales Dashboard](https://github.com/Shubham-Verma607/mobile-product-sales-dashboard)
+Interactive Power BI dashboard focused on mobile product sales analysis, KPIs, product performance, and business insights.
+
+**Tools:** `Power BI` `DAX` `Power Query` `Data Analysis`
+
+---
+
+### 🌾 GramSathi-AI
+AI-powered smart farming assistant designed to provide intelligent and data-driven agricultural support.
+
+**Focus:** `AI` `Flask` `Python` `Web Application`
 ## 🎯 Currently Learning
 
 - Advanced SQL
@@ -56,4 +67,4 @@ I’m a B.Tech student and aspiring Data Analyst focused on turning data into me
 ## 🤝 Connect With Me
 
 **LinkedIn:** [Shubham Verma](https://www.linkedin.com/in/shubhamverma234/)  
-**GitHub:** Shubham-Verma607
+**GitHub:** [Shubham-Verma607](https://github.com/Shubham-Verma607)
