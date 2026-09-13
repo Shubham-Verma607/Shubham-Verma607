@@ -64,7 +64,23 @@ AI-powered smart farming assistant designed to provide intelligent and data-driv
 
 ---
 
+
+## 📬 Open to Opportunities
+
+Interested in opportunities related to:
+
+- Data Analytics
+- Business Intelligence
+- Power BI
+- Python & SQL
+- Data Visualization
+
+---
 ## 🤝 Connect With Me
 
 **LinkedIn:** [Shubham Verma](https://www.linkedin.com/in/shubhamverma234/)  
 **GitHub:** [Shubham-Verma607](https://github.com/Shubham-Verma607)
+
+---
+
+
