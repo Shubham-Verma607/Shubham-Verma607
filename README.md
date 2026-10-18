@@ -40,7 +40,7 @@ Interactive Power BI dashboard focused on mobile product sales analysis, KPIs, p
 
 ---
 
-### 🌾 GramSathi-AI
+### 🌾 [KrshiMitra](https://github.com/Shubham-Verma607/KrishiMitra)
 AI-powered smart farming assistant designed to provide intelligent and data-driven agricultural support.
 
 **Focus:** `AI` `Flask` `Python` `Web Application`
